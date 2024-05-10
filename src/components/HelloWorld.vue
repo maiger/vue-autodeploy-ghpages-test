@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>Testing Auto-Deploy Vue.js to GitHub Pages using Actions</h3>
-    <h3>Lorem ipsum dolor sit amet</h3>
+    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
   </div>
 </template>
 
